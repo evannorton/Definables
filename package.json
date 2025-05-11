@@ -21,8 +21,8 @@
         "typescript": "5.4.5"
     },
     "engines": {
-        "npm": "10.5.0",
-        "node": "20.12.2"
+        "npm": "10.9.2",
+        "node": "22.15.0"
     },
     "dependencies": {
         "uuid": "10.0.0"
